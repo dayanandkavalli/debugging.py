@@ -8,7 +8,7 @@
 
 4 .go to the mail and click on the assignment link sent or just copy paste the link in the browser, it will ask to login to the github account using mail id and password, so creating the account has to be carried out in the first place, later the repository gets loaded and you will be taken to the github, on the phone you get the desktop site, open the same in desktop mode.
 
-5 .copy the url from the repository and use the git command to clone the repository in termux git clone example: git clone https://kavyashreeD/TesingPython/kavyashreeD.git
+5 .copy the url from the repository and use the git command to clone the repository in termux git clone example: git clone https://chethanR/debugging.py/chethanR.git
 
 6 .Now use ls command, list all the files
 
